@@ -16,3 +16,8 @@ This is the public webpage associated with the Github of the Computer Vision and
 
 - John McDonald's [Robot vision MU's team](https://github.com/robotvisionmu/)
 
+
+# Miscellaneous
+
+- [Preparing to study abroad  in Maynooth University (Ireland)](https://www.maynoothuniversity.ie/international/dates-pre-arrival-information)
+- [MU Key term dates](https://www.maynoothuniversity.ie/registrar/key-term-dates)
