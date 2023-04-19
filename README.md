@@ -12,6 +12,7 @@ This is the public webpage associated with the Github of the Computer Vision and
 - [Maira Rubab](https://www.linkedin.com/in/maira-rubab-a84a26244/)
 
 
-# Miscellaneous
+# Collaborators
 
+- John McDonald's [Robot vision MU's team](https://github.com/robotvisionmu/)
 
