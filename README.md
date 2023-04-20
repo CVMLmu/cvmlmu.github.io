@@ -1,8 +1,8 @@
-# About
+# Computer Vision & Machine Learning group Maynooth University 
 
 This is the public webpage associated with the Github of the Computer Vision and Machine Learning (CVML) group in Maynooth University (MU) in Ireland that started in Fall 2022.
 
-# Team members
+## Team members
 
 - [Rozenn Dahyot](https://roznn.github.io/)
 - [Matej Ulicny](https://www.linkedin.com/in/matej-u-2ba562109/)
@@ -12,12 +12,12 @@ This is the public webpage associated with the Github of the Computer Vision and
 - [Maira Rubab](https://www.linkedin.com/in/maira-rubab-a84a26244/)
 
 
-# Collaborators
+## Collaborators
 
 - John McDonald's [Robot vision MU's team](https://github.com/robotvisionmu/)
 
 
-# Miscellaneous
+## Miscellaneous
 
 - [Preparing to study abroad  in Maynooth University (Ireland)](https://www.maynoothuniversity.ie/international/dates-pre-arrival-information)
 - [MU Key term dates](https://www.maynoothuniversity.ie/registrar/key-term-dates)
