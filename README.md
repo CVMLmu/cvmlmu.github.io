@@ -1,6 +1,6 @@
-# CVML-MU 
+# Welcome 
 
-This is the public webpage associated with the Github of the Computer Vision and Machine Learning (CVML) group in Maynooth University (MU) in Ireland that started in Fall 2022.
+This is the public webpage associated with the [Github](https://github.com/CVMLmu/) of the Computer Vision and Machine Learning (CVML) group in Maynooth University (MU) in Ireland that started in Fall 2022.
 
 ## Team members
 
