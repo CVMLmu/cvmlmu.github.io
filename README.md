@@ -11,6 +11,9 @@ This is the public webpage associated with the [Github](https://github.com/CVMLm
 - [Mohammed Hamed](https://www.linkedin.com/in/mohammedhamed17/)
 - [Maira Rubab](https://www.linkedin.com/in/maira-rubab-a84a26244/)
 
+## Publications
+
+See <a href="publications.html">webpage</a> for a list.  
 
 ## Collaborators
 
