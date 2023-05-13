@@ -28,3 +28,10 @@ See <a href="publications.html">webpage</a> for a list.
 ## Contact
 
 <img src="https://avatars.githubusercontent.com/u/129969837?s=200&v=4" width="80" alt="CVMLMU" />
+```
+Department of Computer Science
+Eolas Building
+Maynooth University
+Ireland
+```
+<a	href="https://www.openstreetmap.org/?mlat=53.38495&amp;mlon=-6.60172#map=17/53.38382/-6.60180" target="_blank">View Map</a>
