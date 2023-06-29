@@ -9,7 +9,6 @@ This is the public webpage associated with the [Github](https://github.com/CVMLm
 - Dr. [Jeremy Chopin](https://www.linkedin.com/in/jeremy-chopin/)
 - [Solmaz Panahi](https://www.linkedin.com/in/solmaz-panahi-418744213/)
 - [Mohammed Hamed](https://www.linkedin.com/in/mohammedhamed17/)
-- [Maira Rubab](https://www.linkedin.com/in/maira-rubab-a84a26244/)
 
 ## Publications
 
