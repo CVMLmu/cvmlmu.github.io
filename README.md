@@ -7,7 +7,6 @@ This is the public webpage associated with the [Github](https://github.com/CVMLm
 - Prof. [Rozenn Dahyot](https://roznn.github.io/)
 - Dr. [Matej Ulicny](https://www.linkedin.com/in/matej-u-2ba562109/)
 - Dr. [Jeremy Chopin](https://www.linkedin.com/in/jeremy-chopin/)
-- [Solmaz Panahi](https://www.linkedin.com/in/solmaz-panahi-418744213/)
 - [Mohammed Hamed](https://www.linkedin.com/in/mohammedhamed17/)
 
 ## Publications
