@@ -5,9 +5,13 @@ This is the public webpage associated with the [Github](https://github.com/CVMLm
 ## MU Team members
 
 - Prof. [Rozenn Dahyot](https://roznn.github.io/)
-- Dr. [Matej Ulicny](https://www.linkedin.com/in/matej-u-2ba562109/)
-- Dr. [Jeremy Chopin](https://www.linkedin.com/in/jeremy-chopin/)
-- [Mohammed Hamed](https://www.linkedin.com/in/mohammedhamed17/)
+- Dr. [Jeremy Chopin](https://www.linkedin.com/in/jeremy-chopin/), 2022-
+- [Mohammed Hamed](https://www.linkedin.com/in/mohammedhamed17/) , 2022- 
+
+Alumni:
+- Dr. [Matej Ulicny](https://www.linkedin.com/in/matej-u-2ba562109/),  2022-23
+- [Solmaz Panahi](https://www.linkedin.com/in/solmaz-panahi-418744213/), 2022-23
+
 
 ## Publications
 
