@@ -5,7 +5,7 @@ This is the public webpage associated with the [Github](https://github.com/CVMLm
 ## MU Team members
 
 - Prof. [Rozenn Dahyot](https://roznn.github.io/)
-- Senem Aktas
+- Senem Aktas, 2024-
 
 Alumni:
 - Dr. [Matej Ulicny](https://www.linkedin.com/in/matej-u-2ba562109/),  2022-23
