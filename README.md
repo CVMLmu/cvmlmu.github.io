@@ -5,12 +5,12 @@ This is the public webpage associated with the [Github](https://github.com/CVMLm
 ## MU Team members
 
 - Prof. [Rozenn Dahyot](https://roznn.github.io/)
-- Dr. [Jeremy Chopin](https://www.linkedin.com/in/jeremy-chopin/), 2022-
-- [Mohammed Hamed](https://www.linkedin.com/in/mohammedhamed17/) , 2022- 
+- Senem Aktas
 
 Alumni:
 - Dr. [Matej Ulicny](https://www.linkedin.com/in/matej-u-2ba562109/),  2022-23
 - [Solmaz Panahi](https://www.linkedin.com/in/solmaz-panahi-418744213/), 2022-23
+- Dr. [Jeremy Chopin](https://www.linkedin.com/in/jeremy-chopin/), 2022-2024
 
 
 ## Publications
@@ -20,7 +20,6 @@ See <a href="publications.html">webpage</a> for a list.
 ## Collaborators
 
 - John McDonald's [Robot vision MU's team](https://github.com/robotvisionmu/)
-
 
 ## Miscellaneous
 
