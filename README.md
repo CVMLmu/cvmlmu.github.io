@@ -19,7 +19,8 @@ See <a href="publications.html">webpage</a> for a list.
 
 ## Collaborators
 
-- John McDonald's [Robot vision MU's team](https://github.com/robotvisionmu/)
+- <a href="https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/john-mcdonald" target="_blank">John McDonald</a>'s [Robot vision MU's team](https://github.com/robotvisionmu/)
+- <a href="https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/charles-markham" target="_blank">Charles Markham</a>
 
 ## Miscellaneous
 
