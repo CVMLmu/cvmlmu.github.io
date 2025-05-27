@@ -18,7 +18,11 @@ Alumni:
 See <a href="publications.html">webpage</a> for a list.  
 
 Github repos:
-- [DGMMC : Deep Gaussian Mixture Model Classifier](https://github.com/CVMLmu/DGMMC/) with [arxiv paper 2410.13421](https://arxiv.org/abs/2410.13421)
+- [DGMMC : Deep Gaussian Mixture Model Classifier](https://github.com/CVMLmu/DGMMC/) with [arxiv paper 2410.13421](https://arxiv.org/abs/2410.13421) (2024)
+
+Seminar slides:
+- [WISP Webinar: Neural Networks Based Solutions for Geotagging of Objects](https://roznn.github.io/Seminars/IEEEWISP2025.html), R. Dahyot, IEEE Women In Signal Processing (WISP) webinar,  April 8th 2025
+
 
 ## Collaborators
 
