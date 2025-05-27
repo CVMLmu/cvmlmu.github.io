@@ -17,6 +17,9 @@ Alumni:
 
 See <a href="publications.html">webpage</a> for a list.  
 
+Recent repos:
+- [DGMMC : Deep Gaussian Mixture Model Classifier](https://github.com/CVMLmu/DGMMC/) with [arxiv paper 2410.13421](https://arxiv.org/abs/2410.13421)
+
 ## Collaborators
 
 - Prof <a href="https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/john-mcdonald" target="_blank">John McDonald</a> who leads  [Robot vision MU's team](https://github.com/robotvisionmu/)
