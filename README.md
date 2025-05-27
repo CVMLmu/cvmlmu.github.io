@@ -20,7 +20,7 @@ See <a href="publications.html">publications' webpage</a> for a list of our grou
 **Github repos:**
 - [DGMMC : Deep Gaussian Mixture Model Classifier](https://github.com/CVMLmu/DGMMC/) with [arxiv paper 2410.13421](https://arxiv.org/abs/2410.13421) (2024)
 
-**Seminar slides:**
+**Seminars:**
 - [WISP Webinar: Neural Networks Based Solutions for Geotagging of Objects](https://roznn.github.io/Seminars/IEEEWISP2025.html), R. Dahyot, IEEE Women In Signal Processing (WISP) webinar,  April 8th 2025
 
 
