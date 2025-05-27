@@ -17,7 +17,7 @@ Alumni:
 
 See <a href="publications.html">webpage</a> for a list.  
 
-Recent repos:
+Github repos:
 - [DGMMC : Deep Gaussian Mixture Model Classifier](https://github.com/CVMLmu/DGMMC/) with [arxiv paper 2410.13421](https://arxiv.org/abs/2410.13421)
 
 ## Collaborators
