@@ -15,7 +15,7 @@ Alumni:
 
 ## Publications
 
-See <a href="publications.html">webpage</a> for a list.  
+See <a href="publications.html">publications' webpage</a> for a list of our group's papers.  
 
 Github repos:
 - [DGMMC : Deep Gaussian Mixture Model Classifier](https://github.com/CVMLmu/DGMMC/) with [arxiv paper 2410.13421](https://arxiv.org/abs/2410.13421) (2024)
