@@ -13,6 +13,11 @@ Alumni:
 - Dr. [Jeremy Chopin](https://www.linkedin.com/in/jeremy-chopin/), 2022-2024
 
 
+Collaborators:
+
+- Prof <a href="https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/john-mcdonald" target="_blank">John McDonald</a> who leads  [Robot vision MU's team](https://github.com/robotvisionmu/)
+- Prof <a href="https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/charles-markham" target="_blank">Charles Markham</a>
+
 ## Publications
 
 See <a href="publications.html">publications' webpage</a> for a list of our group's papers.  
@@ -24,11 +29,6 @@ See <a href="publications.html">publications' webpage</a> for a list of our grou
 **Seminars:**
 - [WISP Webinar: Neural Networks Based Solutions for Geotagging of Objects](https://roznn.github.io/Seminars/IEEEWISP2025.html), R. Dahyot, IEEE Women In Signal Processing (WISP) webinar,  April 8th 2025
 
-
-## Collaborators
-
-- Prof <a href="https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/john-mcdonald" target="_blank">John McDonald</a> who leads  [Robot vision MU's team](https://github.com/robotvisionmu/)
-- Prof <a href="https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/charles-markham" target="_blank">Charles Markham</a>
 
 ## Miscellaneous
 
