@@ -18,6 +18,7 @@ Alumni:
 See <a href="publications.html">publications' webpage</a> for a list of our group's papers.  
 
 **Github repos:**
+- [FMOX: Benchmarking EfficientTAM on FMO datasets](https://cvmlmu.github.io/FMOX/) (2025)
 - [DGMMC : Deep Gaussian Mixture Model Classifier](https://github.com/CVMLmu/DGMMC/) with [arxiv paper 2410.13421](https://arxiv.org/abs/2410.13421) (2024)
 
 **Seminars:**
